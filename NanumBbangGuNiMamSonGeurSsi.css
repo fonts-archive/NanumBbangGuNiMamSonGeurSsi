@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumBbangGuNiMamSonGeurSsi';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBbangGuNiMamSonGeurSsi/NanumBbangGuNiMamSonGeurSsi.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBbangGuNiMamSonGeurSsi/NanumBbangGuNiMamSonGeurSsi.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBbangGuNiMamSonGeurSsi/NanumBbangGuNiMamSonGeurSsi.ttf') format('truetype');
+}
